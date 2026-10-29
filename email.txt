@@ -1,0 +1,193 @@
+DAILY STATUS UPDATE DRAFTS (for review)
+Subject for the first email: Internship:: Status Update - 10/26/2026
+Later days are replies in the same thread.
+
+==========================================================
+MONDAY, 26 October 2026
+==========================================================
+
+Hello Team,
+
+Good Evening.
+Please find my work status for today below.
+
+Technical Tasks:
+
+Assigned Tasks Today:
+Task 1: Attended the session on input handling, scope, access modifiers and control flow.
+Task 2: Started the "Program Flow and Access Modifier" assignment.
+
+Tasks Completed Today:
+In the session, I learned how to take input from the keyboard at runtime using input() and type cast it to int, float and str, and the different ways of taking input such as multiple values in one line using split() with space or comma separators. We then covered enclosing scope, access modifiers (public, protected and private variables with their underscore syntax), encapsulation and how constructors are written using __init__. We also went through control flow with proper indentation, the difference between nested if and elif, and why nested loops are used.
+From the assignment I completed programs 1 to 7 (positive or negative number, pass or fail with rank, character checking, biggest of two numbers, squares up to 20, n even numbers and sum of even numbers) and pushed them to my Python practice GitHub repository.
+Topics covered:
+1. Runtime input using input() and type casting
+2. Enclosing scope and encapsulation
+3. Access modifiers and constructors
+4. Control flow: if, elif, else and nested if
+5. Loops and nested loops
+
+Tasks Planned for Tomorrow:
+To continue the assignment from program 8 (prime numbers, factorial, perfect number, Fibonacci and digit based programs).
+To revise the while loop syntax before starting those programs.
+
+Any Challenges or Blockers:
+In the biggest of two numbers program, I mixed up the greater than and less than conditions at first and took some time to get the logic right.
+For the character checking program, I had to look up the correct string methods for checking uppercase and lowercase characters before completing it.
+
+Any Questions or Needs: No
+
+Learning and Takeaways:
+
+Today's session gave me a clear foundation in user input, control flow and the basics of encapsulation in Python. My main takeaway is that writing the condition correctly matters more than writing the program fast.
+
+Thank you for taking the time to read my email.
+
+Regards,
+Karubhuktha Phani Kumar
+
+
+==========================================================
+TUESDAY, 27 October 2026
+==========================================================
+
+Hello Team,
+
+Good Evening.
+Please find my work status for today below.
+
+Technical Tasks:
+
+Assigned Tasks Today:
+Task 1: Attended the session on loop control statements, types of loops and constructors.
+Task 2: Continue the "Program Flow and Access Modifier" assignment.
+
+Tasks Completed Today:
+In the session, I learned the loop control statements break, continue and pass with their syntax and when to use each, the difference between a keyword and a function, and the difference between a for loop and a while loop and how to choose between them. We also covered types of constructors (default and parameterised) and had a brief introduction to functions and methods. Ma'am also explained the approach for solving pattern programs.
+Most of the day was given for practice, and I completed programs 8 to 22 from the assignment, taking the total to 22. These included prime numbers, factorial of n, perfect number, Fibonacci series, big digit in a number, sum of digits using recursion, occurrences of a digit, reversing a number and prime numbers between m and n. All programs are pushed to my Python practice GitHub repository.
+Topics covered:
+1. Loop control statements: break, continue, pass
+2. for loop vs while loop
+3. Default and parameterised constructors
+4. Functions and methods (introduction)
+5. Digit extraction using modulus (%) and floor division (//)
+
+Tasks Planned for Tomorrow:
+To complete programs 23 to 35 (perfect numbers in a range, Armstrong numbers and the array programs).
+To practice more while loop based problems.
+
+Any Challenges or Blockers:
+Most of today's programs needed a while loop, which I was using for the first time, so understanding how the loop condition and the update step work together took time.
+The perfect number and occurrences of a digit programs were the most challenging. I was confused between division (/) and floor division (//) while extracting the last digit, and once I understood that // keeps the result as an integer, the logic became clear.
+
+Any Questions or Needs: No
+
+Learning and Takeaways:
+
+Today I got a good understanding of the while loop and of the % and // operators for working with the digits of a number. Completing 15 new programs, including the ones I struggled with, gave me confidence for the next set.
+
+Thank you for taking the time to read my email.
+
+Regards,
+Karubhuktha Phani Kumar
+
+
+==========================================================
+WEDNESDAY, 28 October 2026
+==========================================================
+
+Hello Team,
+
+Good Evening.
+Please find my work status for today below.
+
+Technical Tasks:
+
+Assigned Tasks Today:
+Task 1: Attended the sessions on functions, operators and strings.
+Task 2: Continue the "Program Flow and Access Modifier" assignment.
+
+Tasks Completed Today:
+In the morning session, I learned about functions and methods, membership operators (in, not in) and identity operators (is, is not). I understood how id() gives the memory address of an object and how identity operators compare addresses while comparison operators compare values. Ma'am asked me to research identity and address operators further.
+In the evening session, we covered strings in depth: declaring strings with single, double and triple quotes, slicing with positive and negative indexes and its rules, case conversion and other string methods, and converting characters to Unicode values and back using ord() and chr().
+On the practice side, I completed programs 23 to 34, which included perfect numbers in a range, Armstrong numbers, sum of natural numbers and the array programs (copying an array, frequency of elements, duplicates, reverse order, largest and smallest, descending sort, sum of elements and odd and even numbers). Program 35 (happy number) is in progress. All completed programs are pushed to my Python practice GitHub repository.
+Topics covered:
+1. Functions and methods
+2. Membership and identity operators
+3. id() and memory addresses
+4. String declaration, slicing and string methods
+5. ord() and chr() for Unicode conversion
+
+Tasks Planned for Tomorrow:
+To complete program 35 and the remaining series, access modifier and package tasks.
+To start the "Operators and Strings" assignment.
+
+Any Challenges or Blockers:
+Working with arrays using while loops was the main difficulty today, especially managing the index variable so that no element is skipped or repeated.
+
+Any Questions or Needs: No
+
+Soft Skills:
+
+Today I attended a soft skills session on useful keyboard shortcuts and on organising and formatting an email. I understood how a clear subject line, proper sections and consistent formatting make an email easier to read, and I am applying the same format in this status update.
+
+Learning and Takeaways:
+
+Today's biggest learning was the difference between comparing values and comparing identity in Python, along with how string slicing works. On the practice side, I am now more comfortable using while loops with arrays than I was yesterday.
+
+Thank you for taking the time to read my email.
+
+Regards,
+Karubhuktha Phani Kumar
+
+
+==========================================================
+THURSDAY, 29 October 2026
+==========================================================
+
+Hello Team,
+
+Good Evening.
+Please find my work status for today below.
+
+Technical Tasks:
+
+Assigned Tasks Today:
+Task 1: Attended the session on parameters and arguments.
+Task 2: Complete the pending programs from the "Program Flow and Access Modifier" assignment.
+Task 3: Start the "Operators and Strings" assignment.
+
+Tasks Completed Today:
+In the session, I learned the difference between parameters and arguments and the types of arguments: positional, keyword and default. I understood their syntax, where each one is useful and why the order of positional and keyword arguments matters.
+On the practice side, I completed the happy number program and the series programs 36 to 42 (harmonic series, sum of reciprocal squares and sum of factorial reciprocals using a recursive factorial function). I also completed the theory tasks on how access modifiers are useful in Python and on creating a package with multiple classes. With this, the first assignment is complete except for the pattern programs (43), which are still pending.
+From the "Operators and Strings" assignment, I completed questions 1 to 8. Questions 1 to 5 were theory, where I researched the types of input and output, output formatting and the different Python operator categories (arithmetic, comparison, logical, membership, assignment, bitwise, identity and ternary). Questions 6 to 8 were programs: separating individual characters, finding the reverse and length of a string without predefined functions, and finding the maximum and minimum occurring character. All programs are pushed to my Python practice GitHub repository and I will upload the theory notes as well.
+Topics covered:
+1. Parameters vs arguments
+2. Positional, keyword and default arguments
+3. Mathematical series using loops and recursion
+4. Access modifiers and packages in Python
+5. Types of Python operators
+6. String traversal and the count() method
+
+Tasks Planned for Tomorrow:
+To understand the logic behind pattern programs and complete them.
+To continue the "Operators and Strings" assignment from question 9.
+
+Any Challenges or Blockers:
+I have not yet fully understood the logic behind pattern programs, especially controlling the inner loop and the new line, so I have kept them pending and will work on them tomorrow.
+The maximum and minimum occurring character program took the longest. I solved it by dividing it into three parts: collecting the distinct characters, counting each one with the count() method, and then finding the highest and lowest counts.
+
+Any Questions or Needs: No
+
+Additional Session:
+
+Today I attended a session on AI where the presenter explained the difference between workflows and agents and showed how an agent loop is built from scratch. He demonstrated it with a small project simulating a virtual machine, which made the idea of how an agent plans, acts and checks its result easy to follow.
+
+Learning and Takeaways:
+
+Today I understood how different types of arguments make functions more flexible, and I completed the first assignment except for patterns. The AI session gave me a basic picture of how agents work in a loop, which I found very interesting.
+
+Thank you for taking the time to read my email.
+
+Regards,
+Karubhuktha Phani Kumar
