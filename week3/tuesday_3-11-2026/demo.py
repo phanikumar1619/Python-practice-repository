@@ -124,6 +124,7 @@ class Student:
     name = "pasd"
     def __init__(self , name):
         self.name = name
+    @classmethod
     def changeschool(cls , school):
         cls.school = school
 a = Student("phani")
