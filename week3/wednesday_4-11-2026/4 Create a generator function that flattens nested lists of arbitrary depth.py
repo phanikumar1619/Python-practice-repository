@@ -1,13 +1,14 @@
+
 nested_list = [1, [2, 3], [4, [5, 6]], 7]
 
-def num():
-    for i in nested_list:
+def num(my_list):
+    for i in my_list:
         if isinstance(i, list):
-            yield num()
+            yield from num(i)
         else:
-            yield i 
+            yield i
 
-gen = num()
+gen = num(nested_list)
 
 for i in gen:
     print(i)
