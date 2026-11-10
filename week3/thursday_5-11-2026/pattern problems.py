@@ -159,13 +159,85 @@ col = int(input("Enter the col value: "))
 
 
 
-for i in range(1 , row+1):
-    space = row - i
-    print(" " * space , end = "")
-    for j in range(1 , i + 1):
-        print(j , end = "")
-        c = j - 1
-    for k in range(1 , i):
-        print( c, end = "")
-        c -= 1
-    print()
+# for i in range(1 , row+1):
+#     space = row - i
+#     print(" " * space , end = "")
+#     for j in range(1 , i + 1):
+#         print(j , end = "")
+#         c = j - 1
+#     for k in range(1 , i):
+#         print( c, end = "")
+#         c -= 1
+#     print()
+
+
+
+
+
+
+
+# for i in range(1 , row + 1):
+#     space1 = row - i
+#     print(" " * space1, end = "")
+#     for j in range(1 , i + 1):
+#         print(j , end = "")
+#     c = i - 1
+#     for k in range(1 , i):
+#         print(c , end = "")
+#         c -= 1
+#     print()
+# space2 = 1
+# n = row
+# for i in range(1 , row):
+#     print(" " * space2 , end = "")
+#     for j in range(1 , n):
+#         print(j , end = "")
+#     c = n - 2
+#     for k in range(1 , n-1):
+#         print(c , end = "")
+#         c -= 1
+#     space2 += 1
+#     n -= 1
+#     print()
+
+
+
+
+# for i in range(1 , row):
+#     space1 = row - i
+#     print(" " * space1 , end = "")
+#     for j in range(space1 , row):
+#         print(j , end = "")
+#     c = j - 1
+#     for k in range(1 , i):
+#         print(c , end = "")
+#         c -= 1
+#     print()
+
+# space2 = 1
+# s = 2
+# for i in range(1 , row - 1):
+#     print(" " * s , end = "")
+#     for j in range(space2 + 1 , row):
+#         print(j , end = "")
+#     c = j - 1
+#     n = row - i - 1
+#     for k in range(1 , n):
+#         print(c , end = "")
+#         c -= 1
+#     space2 += 1
+#     s += 1
+#     print()
+
+
+
+text = 'hello python world'
+result = ''
+
+for i in text:
+    if(i == " "):
+        print(result)
+        result = ""
+    else:
+        result += i
+print(result)
