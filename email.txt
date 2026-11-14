@@ -191,3 +191,56 @@ Thank you for taking the time to read my email.
 
 Regards,
 Karubhuktha Phani Kumar
+
+
+
+
+
+
+
+friday mail
+
+
+
+Hello Team,
+
+Good Evening.
+Please find my work status for today below.
+
+Technical Tasks:
+
+Assigned Tasks Today:
+Task 1: Continue the string practice assignment (programs 9 to 17).
+Task 2: Push the completed programs to the Python practice GitHub repository.
+
+Tasks Completed Today:
+I completed 9 string programs today and pushed all of them to the Python practice GitHub repository. These covered counting words, vowels, consonants, digits and special characters in a string, finding the percentage of each type of character, comparing two strings with a user defined function, finding the length of a string without len(), replacing a substring, printing names that start with a given character and printing a list of strings in reverse order.
+Topics covered:
+1. String methods like isalpha(), isdigit(), isupper(), islower(), title() and replace()
+2. User defined functions for string comparison and finding string length
+3. ord() and chr() to shift the first character of each word
+4. String and list slicing with [::-1]
+
+Tasks Planned for Tomorrow:
+1. Fix the word count logic in program 9, it is not giving the correct count for some inputs.
+2. Revise the string programs once and go through the next assignment.
+3. Push the updated files to GitHub.
+
+Any Challenges or Blockers:
+In program 9 the word count was not matching the expected output for strings with extra spaces. I have noted it in the file and will fix it.
+Took some time to understand how ord() and chr() work together for converting a character to its previous one, but it became clear after trying it on a few words.
+
+Any Questions or Needs: No
+
+Soft Skills:
+
+There was no separate soft skills session today. I kept a habit of writing a small comment in the file whenever something did not work as expected, so that I remember what to come back to instead of leaving it half done.
+
+Learning and Takeaways:
+
+The main takeaway is that most string problems can be solved with a for loop and a few checks, but the built in methods make the code much shorter. I also learned that it is better to note down a bug clearly than to skip it and forget it.
+
+Thank you for taking the time to read my email.
+
+Regards,
+Karubhuktha Phani Kumar
