@@ -1,0 +1,5 @@
+Python is easy to learn.
+Python supports OOP.
+Python has generators.
+Python has iterators.
+Python has decorators.
