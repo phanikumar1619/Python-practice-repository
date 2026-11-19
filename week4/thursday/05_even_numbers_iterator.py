@@ -14,7 +14,9 @@ class EvenNumbers:
                 val = self.start
                 self.start += 1
                 return val
-            self.start += 1
+            self.start += 1 # it is very important so remember it
+        '''if(self.start > self.end):
+            raise StopIteration '''  # we can do like this also
         raise StopIteration
 
 a = int(input("Starting number:"))
